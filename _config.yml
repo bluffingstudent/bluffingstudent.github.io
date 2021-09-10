@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "ko"
 title                    : "BluffingStudent"
 title_separator          : "-"
-subtitle                 : "이게 고딩인가 싶을 정도로 심하게 노는 학생"
+subtitle                 : "고딩 맞나 싶을 정도로 유쾌한 엔프피"
 name                     : "BluffingStudent"
 description              : "A Bluffing Website."
 url                      : # the base hostname & protocol for your site e.g. "https://bluffingstudent.github.io/"
