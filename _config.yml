@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "BluffingMan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/dhy_profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **Bluffing** student."
   location         : "Somewhere"
   email            : "blufferinhafs@gmail.com"
