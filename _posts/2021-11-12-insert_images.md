@@ -13,7 +13,8 @@ title:  "이미지를 넣어봅시다."
 ---
 
 ## 윤석열(국민의힘)<br>
-![yoon][youl]<br>[youl]:https://t1.daumcdn.net/cfile/tistory/99C9AD345FABAC5811
+![yoon][youl]  
+[youl]: https://t1.daumcdn.net/cfile/tistory/99C9AD345FABAC5811
 <br>국민의힘의 대선후보, 윤석열입니다.<br>
 ---
 
