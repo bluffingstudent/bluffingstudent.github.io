@@ -14,7 +14,7 @@ title:  "이미지를 넣어봅시다."
 
 ## 윤석열(국민의힘)<br>
 ![yoon][youl]<br>
-[youl]: ![image](https://user-images.githubusercontent.com/89628877/141423227-7dd50064-5fbc-4f58-927a-1950c70e4475.png)
+[youl]:(https://user-images.githubusercontent.com/89628877/141423227-7dd50064-5fbc-4f58-927a-1950c70e4475.png)
 <br>국민의힘의 대선후보, 윤석열입니다.<br>
 ---
 
