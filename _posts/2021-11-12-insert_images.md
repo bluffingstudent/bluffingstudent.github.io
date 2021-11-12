@@ -9,18 +9,18 @@ title:  "이미지를 넣어봅시다."
 
 ## 이재명(더불어민주당)<br> 
 ![leejaemyung](/assets/images/jaemyung_lee.jpg)
-<br>더불어민주당의 대선후보, 이재명입니다.
+<br>더불어민주당의 대선후보, 이재명입니다.<br>
 ---
 
 ## 윤석열(국민의힘)<br>
-![yoon][youl]  
-[youl]: https://w.namu.la/s/3484001f8af2b5ccaaeafec41bbb69a41c0566345612420007c799a466c61a107081df23fc5aadcfb0eb2f054b3c6ee46007ae84805cfd4114b0c159329dfebc0038e417197d8b9fe5847a76f8d1c370e0c2deb300b45736cf71df62b8ac3a7c19fda791fe93993f912fdb5615303f54
-<br>국민의힘의 대선후보, 윤석열입니다.
+![yoon][youl]
+[youl]: https://w.namu.la/s/e0ce021d1e8ed536cfa355cf9026880cd642e90569d74d41afcbdd92fb866fa46642cdf08c108d06d4b596587f44fc2b6c5269fc14608ee653bd864fada0b240869a4a41aabdb6a85b4ddf5d5e17517fdc0d3527b2d38082c119fae3c0b00f3d
+<br>국민의힘의 대선후보, 윤석열입니다.<br>
 ---
 
 ## 안철수(국민의당)<br>
 [![cheolsoo](/assets/images/cheolsoo_ahn.jpg "안철수 후보의 홈페이지입니다.")](https://ahncheolsoo.kr/)
-<br>국민의당의 대선후보, 안철수입니다.
+<br>국민의당의 대선후보, 안철수입니다.<br>
 ---
 
 
