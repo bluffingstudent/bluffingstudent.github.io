@@ -13,7 +13,8 @@ title:  "이미지를 넣어봅시다."
 ---
 
 ## 윤석열(국민의힘)<br>
-![yoon][youl]<br>[youl]: https://w.namu.la/s/3484001f8af2b5ccaaeafec41bbb69a41c0566345612420007c799a466c61a107081df23fc5aadcfb0eb2f054b3c6ee46007ae84805cfd4114b0c159329dfebc0038e417197d8b9fe5847a76f8d1c370e0c2deb300b45736cf71df62b8ac3a7c19fda791fe93993f912fdb5615303f54
+![yoon][youl]  
+[youl]: https://w.namu.la/s/3484001f8af2b5ccaaeafec41bbb69a41c0566345612420007c799a466c61a107081df23fc5aadcfb0eb2f054b3c6ee46007ae84805cfd4114b0c159329dfebc0038e417197d8b9fe5847a76f8d1c370e0c2deb300b45736cf71df62b8ac3a7c19fda791fe93993f912fdb5615303f54
 <br>국민의힘의 대선후보, 윤석열입니다.
 ---
 
